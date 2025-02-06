@@ -16,10 +16,6 @@ Une application React qui permet aux utilisateurs de poster des commentaires sou
    git clone https://github.com/ton-utilisateur/pageSocialMedia.git
    cd pageSocialMedia
 
-### `npm start`
-
-[http://localhost:3000](http://localhost:3000)
-
 ## Technologies utilisées
 
  React.js - Bibliothèque front-end
