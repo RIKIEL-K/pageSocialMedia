@@ -13,7 +13,7 @@ Une application React qui permet aux utilisateurs de poster des commentaires sou
 
 1. **Cloner le projet**  
    ```bash
-   git clone https://github.com/ton-utilisateur/pageSocialMedia.git
+   git clone https://github.com/RIKIEL-K/pageSocialMedia.git
    cd pageSocialMedia
 
 ## Technologies utilisées
